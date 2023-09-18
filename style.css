@@ -1,0 +1,33 @@
+*{
+    background-image: url(https://wallpapercave.com/wp/wp3416331.jpg);
+    background-size: cover;
+}
+h1{
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+.container{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.Rana{
+    background-image: url(Recipes/img/Biryani.jpg);
+    height: 300px;
+    width: 300px;
+    /* border: 2px solid red; */
+    display: inline-block;
+    background-size: cover;
+    margin: 20px;
+}
+.Rana#Maggi{
+    background-image: url(https://th.bing.com/th/id/R.3c109aadc511fce46aec3397a2ce65cf?rik=NNlQhuh5c0HMKQ&pid=ImgRaw&r=0);
+    /* float: none; */
+}
+.Rana#Tea{
+    background-image: url(https://th.bing.com/th/id/OIP.iVBw6jlL24Km4Kdglq2zdwHaE8?pid=ImgDet&rs=1);
+    /* float: right; */
+}
