@@ -11,14 +11,14 @@ h1{
     color: white;
 }
 .container{
-    /* border: 2px solid red; */
-    text-align: center;
+    border: 2px solid red;
+    /* text-align: center; */
 }
 .Rana{
-    background-image: url(Recipes/img/Biryani.jpg);
+    background-image: url(https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg);
     height: 300px;
     width: 300px;
-    /* border: 2px solid red; */
+    border: 2px solid red;
     display: inline-block;
     background-size: cover;
     margin: 20px;
