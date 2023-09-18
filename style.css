@@ -11,7 +11,8 @@ h1{
     color: white;
 }
 .container{
-    text-align: center;
+    /* text-align: center; */
+    display: flex;
     /* border: 2px solid red; */
 }
 .Rana{
@@ -21,7 +22,8 @@ h1{
     /* border: 2px solid red; */
     display: inline-block;
     background-size: cover;
-    margin: 20px;
+    margin: 40px;
+    flex: 1;
 }
 .Rana#Maggi{
     background-image: url(https://th.bing.com/th/id/R.3c109aadc511fce46aec3397a2ce65cf?rik=NNlQhuh5c0HMKQ&pid=ImgRaw&r=0);
